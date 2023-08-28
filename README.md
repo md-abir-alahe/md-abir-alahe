@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-my-portfolio : abiralahe.net
+visit : abiralahe.net
 
 
 # 💫 About Me:
