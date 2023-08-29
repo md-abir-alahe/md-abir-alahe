@@ -4,7 +4,7 @@ visit : abiralahe.net
 
 
 # 💫 About Me:
-🔭 I’m currently working on a web development team.<br>👯 I’m looking to collaborate on open source projects.<br>🤝 I’m looking for help with web security.<br>🌱 I’m currently learning next.js.<br>💬 Ask me about web development.<br>⚡ Fun fact = I don't know how to learn everything in the world.
+🔭 I’m looking to collaborate on open source projects.<br>🤝 I’m looking for help with web security.<br>🌱 I’m currently learning next.js.<br>💬 Ask me about web development.<br>⚡ Fun fact = I don't know how to learn everything in the world.
 
 
 # 💻 Tech Stack:
