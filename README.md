@@ -4,6 +4,7 @@ visit : abiralahe.net
 
 
 # 💫 About Me:
+I'm a Full Stack Developer.
 🔭 I’m looking to collaborate on open source projects.<br>🤝 I’m looking for help with web security.<br>🌱 I’m currently learning Python and API security.<br>💬 Ask me about web development.<br>⚡ Fun fact = I don't know how to learn everything in the world.
 
 
