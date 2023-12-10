@@ -5,7 +5,7 @@ visit : abiralahe.net
 
 # 💫 About Me:
 I'm a Full Stack Developer specialized in fron end.
-🔭 I’m looking to collaborate on open source projects.<br>🤝 I’m looking for help with web security.<br>🌱 I’m currently learning Python 💬 Ask me about web development.<br>⚡ Fun fact = I don't know how to learn everything in the world.
+🔭 I’m looking to collaborate on open source projects.<br>🤝 I’m looking for help with web security.<br>🌱 I’m currently learning Python 💬 Let's talk about web technology.<br>⚡ Fun fact = I don't know how to learn everything in the world.
 
 
 # 💻 Tech Stack:
