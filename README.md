@@ -1,10 +1,14 @@
 ### Hi there 👋
 
+Failure won't kill you but your fear to fail just may keep you from success.
+
 visit : abiralahe.net
 
 
 # 💫 About Me:
+Born To Learn.
 I'm hungry and fool.
+
 
 
 # 💻 Tech Stack:
