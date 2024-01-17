@@ -11,7 +11,7 @@ YouTube : www.youtube.com/@abiralahe
 
 # 💫 About Me:
 Born To Learn.
-I'm hungry and fool.
+GHOST
 
 
 
