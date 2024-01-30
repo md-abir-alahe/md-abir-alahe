@@ -1,7 +1,4 @@
 ### Hi there 👋
-Let's support each other. 
-Failure won't kill you but your fear to fail just may keep you from success.
-
 visit : abiralahe.net
 LinkedIn : https://www.linkedin.com/in/abir-alahe/
 
