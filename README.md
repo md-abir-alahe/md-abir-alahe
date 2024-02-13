@@ -1,7 +1,6 @@
 ### Hi there 👋
 visit : abiralahe.net
 LinkedIn : https://www.linkedin.com/in/abir-alahe/
-YouTube : www.youtube.com/@abiralahe
 
 # 💫 About Me:
 I'm MD Abir Alahe, a passionate web developer with expertise in various technologies. With a solid background in front-end and back-end development, I create engaging, user-friendly web applications. I have dedicated myself to creating exceptional user experiences that blend functionality and aesthetics seamlessly.
